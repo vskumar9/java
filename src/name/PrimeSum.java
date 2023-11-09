@@ -60,7 +60,7 @@ public class PrimeSum {
 }
 
 /*
-****** OUTPUT: ******
+ 	****** OUTPUT: ******
 This 2 is prime number. The sum of the digits is 2 also prime number.
 This 3 is prime number. The sum of the digits is 3 also prime number.
 This 5 is prime number. The sum of the digits is 5 also prime number.
