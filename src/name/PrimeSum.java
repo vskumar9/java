@@ -59,3 +59,32 @@ public class PrimeSum {
 
 }
 
+/*
+ 					****** OUTPUT: ******
+This 2 is prime number. The sum of the digits is 2 also prime number.
+This 3 is prime number. The sum of the digits is 3 also prime number.
+This 5 is prime number. The sum of the digits is 5 also prime number.
+This 7 is prime number. The sum of the digits is 7 also prime number.
+This 11 is prime number. The sum of the digits is 2 also prime number.
+This 13 is prime number. The sum of the digits is 4 not a prime number.
+This 17 is prime number. The sum of the digits is 8 not a prime number.
+This 19 is prime number. The sum of the digits is 10 not a prime number.
+This 23 is prime number. The sum of the digits is 5 also prime number.
+This 29 is prime number. The sum of the digits is 11 also prime number.
+This 31 is prime number. The sum of the digits is 4 not a prime number.
+This 37 is prime number. The sum of the digits is 10 not a prime number.
+This 41 is prime number. The sum of the digits is 5 also prime number.
+This 43 is prime number. The sum of the digits is 7 also prime number.
+This 47 is prime number. The sum of the digits is 11 also prime number.
+This 53 is prime number. The sum of the digits is 8 not a prime number.
+This 59 is prime number. The sum of the digits is 14 not a prime number.
+This 61 is prime number. The sum of the digits is 7 also prime number.
+This 67 is prime number. The sum of the digits is 13 also prime number.
+This 71 is prime number. The sum of the digits is 8 not a prime number.
+This 73 is prime number. The sum of the digits is 10 not a prime number.
+This 79 is prime number. The sum of the digits is 16 not a prime number.
+This 83 is prime number. The sum of the digits is 11 also prime number.
+This 89 is prime number. The sum of the digits is 17 also prime number.
+This 97 is prime number. The sum of the digits is 16 not a prime number.
+ 
+*/
